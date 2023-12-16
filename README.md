@@ -17,6 +17,7 @@ Chef is a versatile and widely-used automation platform that allows for efficien
 Explore the following Chef cookbooks within this repository:
 
 1. **[My first cookbook](/my-first-cookbook):** [Creates a file and writes data in it ]
+2. **[Software install cookbook](/software-install-cookbook):** [Install a Software package]
 
 ## Getting Started
 
