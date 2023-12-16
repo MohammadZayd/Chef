@@ -6,6 +6,7 @@ Welcome to my Chef learning journey repository! This space documents my explorat
 
 - [Introduction](#introduction)
 - [Chef Cookbooks](#chef-cookbooks)
+- [Getting Started](#getting-started)
 
 ## Introduction
 
